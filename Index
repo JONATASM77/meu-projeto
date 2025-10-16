@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale-1.0">
+<title>  Nome da ong </title>
+</head>
+
+<body>
+<h1>Bem-vindo ao HTML 5!</h1>
+<h2>Olá</h2>
+<h3>Opa</h3>
+<h4>Vamos nessa</h4>
+<h5>Você consegue</h5>
+<h6>Aprender</h6>
+<p> Este é um parágrafo de exemplo </p>
+<p> Este é um parágrafo que pode conter <strong> Texto em negrito </strong> e <em> texto em itálico </em> </p>
+<!----lista não ordenada -->
+<ul>
+<li> Item 1 </li>
+<li> Item 2 </li>
+<li> Item 3 </li>
+</ul>
+<!---- Lista ordena -->
+<ol> 
+<li> Primeiro passo </li>
+<li> Segundo passo </li>
+<li> Terceiro passo </li>
+</ol>
+<h2> <a href="Tabela.html"> Clique aqui para ver a nossa tabela de preço </a></h2>
+</body>
+</html>
 
